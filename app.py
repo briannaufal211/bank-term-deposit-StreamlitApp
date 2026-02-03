@@ -353,8 +353,8 @@ with tab3:
     ### 🧠 Model Overview
 
     - End-to-end ML pipeline
-    - One-Hot Encoding + Scaling
-    - Gradient Boosting Classifier
+    - One-Hot Encoding + StandardScaler
+    - Logistic Regression
     - Precision-oriented optimization
 
     **Disclaimer**  
@@ -366,3 +366,4 @@ with tab3:
 # =====================================================
 st.markdown("---")
 st.caption("📊 Final Project – Bank Marketing Prediction | Brian Naufal & Fahrezy Maulana Haz")
+
